@@ -1,0 +1,24 @@
+.form-card {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+input {
+  width: 300px;
+  height: 50px;
+  font-size: 1.3rem;
+  border: none;
+  box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+}
+
+button {
+  width: 300px;
+  height: 50px;
+  border: none;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.btn-from {
+  cursor: pointer;
+}
